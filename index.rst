@@ -6,6 +6,8 @@
 Welcome to gcmfaces's documentation!
 ====================================
 
+Just a test modification...
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
